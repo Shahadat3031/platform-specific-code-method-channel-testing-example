@@ -1,4 +1,4 @@
-# method_channel_testing
+# method-channel-testing
 
 Data passing from native to flutter by module
 
